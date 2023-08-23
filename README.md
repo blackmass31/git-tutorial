@@ -1,3 +1,3 @@
 # git-tutorial
 
-Basic understanding of git and github
+Understanding how git and github works..
